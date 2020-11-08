@@ -62,15 +62,15 @@ public class Gongboo3 {
 		frame.getContentPane().add(lblNewLabel);
 		
 		textField = new JTextField();
-		textField.setFont(new Font("±¼¸²", Font.PLAIN, 14));
+		textField.setFont(new Font("Â±Â¼Â¸Â²", Font.PLAIN, 14));
 		textField.setBounds(88, 100, 179, 28);
 		frame.getContentPane().add(textField);
 		textField.setColumns(10);
 		
 		JLabel lblNewLabel_1 = new JLabel("NAME : ");
-		lblNewLabel_1.setFont(new Font("±¼¸²", Font.BOLD, 14));
+		lblNewLabel_1.setFont(new Font("Â±Â¼Â¸Â²", Font.BOLD, 14));
 		lblNewLabel_1.setHorizontalAlignment(SwingConstants.CENTER);
 		lblNewLabel_1.setBounds(12, 106, 64, 15);
 		frame.getContentPane().add(lblNewLabel_1);
 	}
-}
+} 
