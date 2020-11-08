@@ -31,7 +31,7 @@ public class Fram {
 		panel.add(txtArea, BorderLayout.CENTER);
 		
 		btn1.addActionListener(new ActionListener() {
-
+ 
 			@Override
 			public void actionPerformed(ActionEvent arg0) {
 				label.setText(txtArea.getText());
